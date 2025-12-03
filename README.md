@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**Mohan171820/Mohan171820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student and an aspiring backend & integration developer.
 
-Here are some ideas to get you started:
+I build backend applications and APIs using Java, Spring Boot, and MuleSoft.
+I enjoy learning by building real projects and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes Java, Spring Boot, MuleSoft, and PostgreSQL.
+My favorite tools are Anypoint Studio, Postman, Git, and GitHub.
+
+I’m currently focused on backend development, API integration, and DSA practice.
+
+Fun Facts:
+I enjoy learning new technologies
+I like building practical projects
+I’m focused on improving my skills for internships and jobs
