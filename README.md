@@ -12,5 +12,7 @@ I’m currently focused on backend development, API integration, and DSA practic
 
 Fun Facts:
 I enjoy learning new technologies
+
 I like building practical projects
+
 I’m focused on improving my skills for internships and jobs
