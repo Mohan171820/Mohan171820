@@ -10,4 +10,4 @@ My main tech stack includes Java, Spring Boot, MuleSoft(Basic) , and PostgreSQL.
 
 My favorite tools are Intellij Idea , Postman, Git, and GitHub.
 
-I’m currently focused on backend development, API integration, and DSA practice.
+I’m currently strengthening my expertise in backend development, data engineering technologies, API integration, and problem-solving through DSA.
